@@ -1,0 +1,56 @@
+*,
+*::after,
+*::before{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+ 
+body{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #28282B;
+}
+
+.container{
+    height: 70vh;
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1.25rem;
+    transition: all 400ms;
+}
+
+.card{
+    flex: 1;
+    height: 100%;
+    transition: all 400ms;
+    cursor: pointer;
+}
+ 
+.card img{
+    display: block;
+    height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.card:nth-child(even){
+    translate: 0px 20px;
+}
+.card:nth-child(odd){
+    translate: 0px -20px;
+}
+
+.container:hover .card:not(:hover){
+    filter: grayscale(100%);
+}
+
+.card:hover{
+    flex: 3;
+}
