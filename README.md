@@ -15,9 +15,9 @@ If you want to contact with me you can reach me at [Linkedin](https://www.linked
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/Todo-List)
-  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/Todo-List)
-  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/Todo-List?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/marvel-cards)
+  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/marvel-cards)
+  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/marvel-cards?style=social)
 
 </div>
 <div align="left">
