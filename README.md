@@ -22,7 +22,7 @@ If you want to contact with me you can reach me at [Linkedin](https://www.linked
 </div>
 <div align="left">
 
-  # Todo-List
+  # Marvel Cards
 
   Task Buddy is a simple todo list web application designed to help users manage their tasks effectively. With Task Buddy, you can easily add, edit, and delete tasks, ensuring you stay organized and productive throughout your day.
 
