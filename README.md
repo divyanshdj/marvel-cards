@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  https://github.com/divyanshdj/marvel-cards/assets/124493395/74626535-f7c6-4c93-bf7d-503cf271ebed
+   <video src="https://github.com/divyanshdj/marvel-cards/assets/124493395/74626535-f7c6-4c93-bf7d-503cf271ebed" autoplay muted></video>
 
 </div>
 
